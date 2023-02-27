@@ -1,0 +1,135 @@
+header,section,aside,footer,nav,article,figure,figcaption{
+    display: block;
+}
+body{
+    color: #666666;
+    background-color: #fffff9;
+    background-image: url("http://www.nyekrip.com/wp-content/uploads/2015/custom/images/dark-wood.jpg");
+    background-position: center;
+    font-family: georgia, Times, serif;
+    line-height: 1.4em;
+    margin: 0px;
+}
+/* .wrapper{
+    width: 940px;
+    margin: 20px auto 20px auto;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+} */
+header{
+    color: rgb(158, 2, 106);
+    height: 168px;
+    background-color: #fDAFFf;
+    background-image: url("sotoaya.jpg");
+    /* background-repeat: no-repeat, repeat; */
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: normal;
+    
+
+}
+hr{
+    width: 352px;
+    float: left;
+    border: 3px solid #b1b101;
+}
+h1 {
+    width: 940px;
+    height: 160px;
+    margin: 0px;
+    padding: 18px;
+}
+nav,
+footer {
+    clear: both;
+    background-color: #EDC9A9;
+    height: 30px;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+nav li{
+    display: inline;
+    padding: 5px 0px 5px 30px;
+}
+nav li a{
+    color: #112122;
+}
+nav li a:hover,
+nav li a.current{
+    color: #ffffff;
+}
+section.courses{
+    margin: 12px;
+    float: left;
+    width: 659;
+    border-right: 1px solid #ffdeee;
+}
+article{
+    clear: both;
+    overflow: auto;
+    width: 100%;
+}
+hgroup{
+    margin-top: 40px;
+}
+figure{
+    float: left;
+    width: 200px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid #ffdeAe;
+}
+figcaption{
+    font-size: 90%;
+    text-align: left;
+}
+aside{
+
+    width: 500px;
+    float: right;
+    padding: 0px 5px 0px px;
+}
+aside section a{
+
+    display: block;
+    padding: 10px;
+    border-bottom: 1px solid #ffdeae;
+}
+aside section a:hover{
+    color: #985da6;
+    background-color: #efefef;
+    
+}
+a{
+    color: #de6581;
+    text-decoration: none;
+}
+h1,
+h2,
+h3 {
+    font-weight: normal;
+}
+
+h2 {
+    margin: 10px 0px 5px 0px;
+    padding: 0px;
+}
+
+h3 {
+    margin: 0px 0px 10px 0px;
+    color: #de6581;
+}
+
+aside h2 {
+    padding: 30px 0px 10px 0px;
+    color: #de6581;
+}
+
+footer {
+    font-size: 80%;
+    padding: 7px 0px 0px 20px;
+}
