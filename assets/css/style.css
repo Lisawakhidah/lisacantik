@@ -20,7 +20,7 @@ header{
     color: rgb(158, 2, 106);
     height: 168px;
     background-color: #fDAFFf;
-    background-image: url("sotoaya.jpg");
+    background-image: url("../img/sotoaya.jpg");
     /* background-repeat: no-repeat, repeat; */
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;

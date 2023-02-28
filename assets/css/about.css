@@ -1,4 +1,59 @@
-body{
+.body_lisa{
+    margin: 0;
+    font-family: Poppins;
+    background: lightblue;
+}
+
+header{
+    margin-top: 0;
+    height: 17vh;
+    background-color: aquamarine;
+}
+
+.headerpo h1{
+    color: rgb(12, 1, 8);
+    line-height: 16vh;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
     background: lightblue;
     display: flex;
     justify-content: center;
@@ -8,9 +63,10 @@ body{
 .container{
     position: relative;
     width: 100%;
-    max-width: 1000px;
-    min-height: 1000px;
     background: #ffffff;
+    margin: 50px;
+    max-width: 1000px;
+    min-height: 1000px; 
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0, 0, 0, 0);
@@ -20,8 +76,9 @@ body{
     background: #003147;
     padding: 40px;
 }
+
 .container .right_side{
     position: relative;
     background: #ffffff;
     padding: 40px;
-}
+} */
